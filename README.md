@@ -73,7 +73,7 @@ Ce tableau vise à :
 
 ## 🛠️ Outils utilisés
 
-- **Excel**pour la création des visualisations
+- **Excel** pour la création des visualisations
 - **GitHub** pour la documentation et l’archivage
 
 ---
