@@ -7,7 +7,7 @@ Ce tableau de bord interactif, mis à jour en mars 2025, regroupe des données d
 
 ## 🖼️ Aperçu visuel
 
-![Tableau de bord ventes](Tableau-de-bord-Kin-Marche-USA.jpg)
+![Tableau de bord ventes](Tableau-de-bord-de-KIN-MARCHE-USA.jpg)
 
 ---
 
